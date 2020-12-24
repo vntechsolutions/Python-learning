@@ -1,2 +1,2 @@
 # Python-learning
-Products during Python training
+Projects during Python training
